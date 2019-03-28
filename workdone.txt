@@ -1,0 +1,10 @@
+
+I finally found your requirement but i didn't have any hosted website and intergrating a couchdb online.so i have used php code to search the 
+data in schema.org .It will constructed under the particular schema so i used it and stored in my localhost couchdb.
+
+Unfortunately i didn't have requirement.
+so i have created it,please consider my submission..
+
+link i have found:
+https://support.google.com/customsearch/answer/4513886?hl=en&ref_topic=4513868
+https://support.google.com/customsearch/answer/4513925?hl=en&ref_topic=4513868
